@@ -110,6 +110,10 @@ body {
   width: 100vw;
 }
 
+.footer-top {
+  width: 100vw;
+}
+
 .footer-top .mobile,
 .features-wave .mobile {
   display: none;
@@ -231,6 +235,14 @@ body {
 
 .feature-text-container {
   max-width: 45rem;
+}
+
+.features-wave.top {
+  margin-bottom: -2px;
+}
+
+.features-wave.bottom {
+  margin-top: -2px;
 }
 
 /* CTA section */
